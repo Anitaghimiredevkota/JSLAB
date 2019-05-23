@@ -1,0 +1,11 @@
+.num{
+    width:2em;
+    height:2em;
+    text-align: center;
+    line-height: 2em;
+    margin-left: 20px;
+ 
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 200%;
+}
